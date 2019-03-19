@@ -117,3 +117,4 @@ echo "--taking inputs, conditionals, and operators"
 # if (( ((number3 > 0 )) && (( number3 < 11 )) )); then
 #     echo "$number3 is between 1 and 10"
 # fi
+
